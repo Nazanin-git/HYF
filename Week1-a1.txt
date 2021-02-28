@@ -1,0 +1,6 @@
+Put a (.) before the file name to make it hidden
+So, the command should be like this: touch .Newfile.txt
+To display a hidden file in CLI you should use list command followed by (-a), ls -a
+To create multiple nested directories we use the command mkdir followed by (-p) and the list of the foldernames we need to create divided by (/)
+So the command should like this: mkdir -p This/is/just/for/fun
+To append messages to a file we use the following command: echo (the message) >> the filename
